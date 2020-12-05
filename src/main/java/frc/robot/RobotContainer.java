@@ -4,7 +4,8 @@
 /* must be accompanied by the FIRST BSD license file in the root directory of */
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
-
+//this is my first attempt. so far nothing has worked
+//workinh out osoem probkems
 package frc.robot;
 
 import edu.wpi.first.wpilibj.GenericHID;
